@@ -2,7 +2,7 @@
 
 This project consists of two Python applications that use **OpenCV** and **MediaPipe Hands** for real-time hand gesture recognition through a webcam. The first script, `two_hand.py`, is designed for counting the number of raised fingers detected from up to two hands, and the second script, `game.py`, is a hand-controlled obstacle avoidance game where the player interacts with the game using hand gestures.
 
-Both applications leverage **MediaPipe Hands** for hand landmark detection, along with **OpenCV** for capturing video from the webcam, processing frames, and displaying results.
+Both applications leverage **MediaPipe Hands** for hand landmark detection, along with **OpenCV** for capturing video from the webcam, processing frames and displaying results.
 
 ---
 
