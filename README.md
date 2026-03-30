@@ -52,6 +52,8 @@ Before running the applications, you need to install the required libraries. You
 ```bash
 pip install opencv-python mediapipe
 ```
+---
+# Vietnamese
 # Ứng dụng nhận diện cử chỉ tay
 
 Dự án này gồm hai ứng dụng Python sử dụng **OpenCV** và **MediaPipe Hands** để nhận diện cử chỉ tay theo thời gian thực thông qua webcam. Tập lệnh đầu tiên, `two_hand.py`, được thiết kế để đếm số ngón tay giơ lên được phát hiện từ tối đa hai bàn tay. Tập lệnh thứ hai, `game.py`, là một trò chơi né chướng ngại vật điều khiển bằng tay, trong đó người chơi tương tác với trò chơi bằng cử chỉ tay.
