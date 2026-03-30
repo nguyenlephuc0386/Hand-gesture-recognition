@@ -53,6 +53,7 @@ Before running the applications, you need to install the required libraries. You
 pip install opencv-python mediapipe
 ```
 ---
+---
 # Vietnamese
 # Ứng dụng nhận diện cử chỉ tay
 
