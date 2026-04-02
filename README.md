@@ -32,10 +32,9 @@ This script is a simple interactive game where the player controls a character o
 
 ---
 
-## Technologies Used
+## Libraries Used
 
-This project uses the following technologies:
-- **Python**: The programming language for both applications.
+This project uses the following libraries:
 - **OpenCV**: Library for computer vision, used for capturing video, displaying frames, and processing image data.
 - **MediaPipe**: Google's library for hand tracking, used to detect hand landmarks and count raised fingers.
 - Standard Python libraries:
@@ -89,10 +88,9 @@ Tập lệnh này là một trò chơi tương tác đơn giản, trong đó ng�
 
 ---
 
-## Công nghệ sử dụng
+## Các thư viện sử dụng
 
-Dự án này sử dụng các công nghệ sau:
-- **Python**: Ngôn ngữ lập trình cho cả hai ứng dụng.
+Dự án này sử dụng các thư viện sau:
 - **OpenCV**: Thư viện thị giác máy tính, dùng để thu video, hiển thị khung hình và xử lý dữ liệu hình ảnh.
 - **MediaPipe**: Thư viện của Google dùng để theo dõi bàn tay, được sử dụng để phát hiện các mốc bàn tay và đếm số ngón tay giơ lên.
 - Các thư viện Python tiêu chuẩn:
